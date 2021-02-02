@@ -24,7 +24,7 @@ cd "répertoire/du/projet"
 
 ```cmd
 python3 -m venv env
-env\Scripts\activate.bat
+env\Scripts\activate
 ```
 5. installer les modules via la commande:
 ```cmd
