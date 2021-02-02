@@ -1,4 +1,4 @@
-# Programme de scrapping en Python
+# Programme de scraping en Python
 
 Pour utiliser cette application suivez la procédure ci-dessous.
 
@@ -24,14 +24,15 @@ cd "répertoire/du/projet"
 
 ```cmd
 python3 -m venv env
+env\Scripts\activate.bat
 ```
 5. installer les modules via la commande:
 ```cmd
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 6. Lancer le programme:
 ```cmd
-python3 app.py
+python app.py
 ```
 ## Informations
 
