@@ -10,7 +10,7 @@ Cette procédure a été conçue pour l'OS Windows 10. Certaines commandes peuve
 
 2. Télécharger le programme via GitHub avec la commande ci-dessous ou en téléchargeant [l'archive](https://github.com/MaeRiz/P1_OC/archive/master.zip).
 ```bash
-git clone https://github.com/MaeRiz/P1_OC.git
+git clone https://github.com/MaeRiz/OC_P2_BooksToScrape.git
 ```
 
 3. Se rendre dans le répertoire du projet dans un terminal:
